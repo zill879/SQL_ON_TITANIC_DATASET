@@ -1,0 +1,11 @@
+Team,Player Name,Batsman,Baller,Runs,Wickets,All-rounder,First Name,Last Name,State,Age,Date Of birth,Format,Address,Type,Best Runs,Best Bowling Figures
+Pakistan,Fakhar Zaman,Bat,none,7824,none,no,Fakhar,Zaman,KPK,39,DOB,T20,none,aggressive,218,none
+Pakistan,Shan Masood,Bat,none,4869,none,no,Shan,Masood,Punjab,35,DOB,T20,none,aggressive,108,none
+Pakistan,Babar Azam,Bat,none,14394,none,no,Babar,Azam,Punjab,33,DOB,T20,none,aggressive,250,none
+Pakistan,Mohammad Rizwan,Bat,none,9814,none,no,Mohammad,Rizwan,KPK,38,DOB,T20,none,normal,145,none
+Pakistan,Shoaib Malik,Bat,Ball,13591,200,Yes,Shoaib,Malik,Punjab,45,DOB,T20,none,aggressive,171,5-27
+Pakistan,Shahid Afridi,Bat,Ball,18824,800,Yes,Shahid,Afridi,Sindh,49,DOB,T20,none,aggressive,171,7-45
+Pakistan,Naseem Shah,none,Ball,14,263,no,Naseem,Shah,Sindh,25,DOB,T20,none,normal,34,5-31
+Pakistan,Shahid Afridi,Bat,Ball,18824,800,Yes,Shahid,Afridi,Sindh,49,DOB,Test,none,aggressive,171,7-45
+Pakistan,Fakhar Zaman,Bat,none,7824,none,no,Fakhar,Zaman,KPK,39,DOB,ODI,none,aggressive,218,none
+England,Joe Root,Bat,none,8824,none,no,Joe,Root,Sheffield,39,DOB,ODI,none,aggressive,218,none
